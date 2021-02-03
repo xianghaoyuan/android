@@ -1,0 +1,7 @@
+﻿[network] 188.317, ni_mon_thread.1434 >>> [NETLINK] receive event
+[network] 188.317, read_netlink.1365 >>> [NETLINK],RTM_NEWLINK
+[network] 188.317, _print_newlink_info.1253 >>> [NETLINK]Interface:wlan0 Link:Down
+[network] 188.327, ni_mon_thread.1434 >>> [NETLINK] receive event
+[network] 188.327, read_netlink.1365 >>> [NETLINK],RTM_NEWLINK
+[network] 188.327, _print_newlink_info.1253 >>> [NETLINK]Interface:wlan0 Link:Down
+MI_SYS_CloseConfigFile[2429]: MI_SYS_CloseConfigFile is failed [ERR=7]!
